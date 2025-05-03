@@ -19,3 +19,7 @@ Construction sites are high-risk environments where heavy machinery and workers 
 Both systems run in **ROS Noetic + Gazebo** on a TurtleBot3 Waffle model. I record metrics-detection accuracy, response time, collision-avoidance success-to benchmarck performance and identify strengths, weaknesses, and fusion opportunities.
 
 ---
+
+## 📂 Repository Structure
+
+

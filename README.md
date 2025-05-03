@@ -106,5 +106,5 @@ Key findings:
 
 ## 📄 License
 
-This project is released under the **MIT License. See for details.
+This project is released under the **[MIT License](LICENSE)**. See for details.
 Feel free to adapt and reuse.
